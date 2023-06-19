@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chack-chack-messanger</string>
+    <string name="chack_chak_chat">Chack-Chak-Chat</string>
+    <string name="your_email">Электронная почта:</string>
+    <string name="your_password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="forgot_password">Забыл пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="register_button_text">Регистрация</string>
+    <string name="respassword">Забыли пароль?</string>
+    <string name="resetpassword">Сбросить пароль</string>
+    <string name="logout">Выйти с аккаунта</string>
+    <string name="message">Ваше сообщениe</string>
+</resources>

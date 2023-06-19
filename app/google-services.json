@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433277547873",
+    "project_id": "chack-chak-messanger",
+    "storage_bucket": "chack-chak-messanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433277547873:android:7d41f86af06ef55762c120",
+        "android_client_info": {
+          "package_name": "com.example.chack_chack_messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433277547873-igke52tpui7agdung4c60eam74alor2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4_T75pCKXew1INKV8SZukqs6hMBn703U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433277547873-igke52tpui7agdung4c60eam74alor2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
